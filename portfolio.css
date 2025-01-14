@@ -146,6 +146,14 @@ h3 {
     margin:auto;
 }
 
+.work-images3 {
+    width: 50;
+    height: auto;
+    width: 75%;
+    display: block;
+    margin:auto;
+}
+
 .wrapper {
     display: flex;
     justify-content: center;
